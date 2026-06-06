@@ -7,7 +7,7 @@ A personalized fashion recommendation system built using **Neural Collaborative 
 ---
 
 ## 🚀 Live Demo
-🔗 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/reshmapriya09/hm-fashion-recommender)
+🔗 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/reshmapriya/HM-Fashion-Recommender)
 
 ---
 
@@ -42,7 +42,7 @@ A personalized fashion recommendation system built using **Neural Collaborative 
 
 ## 🙋‍♀️ Author
 **R.Reshma Priya**
-- 🤗 [Hugging Face](https://huggingface.co/reshmapriya09)
+- 🤗 [Hugging Face](https://huggingface.co/reshmapriya)
 - 💻 [GitHub](https://github.com/reshmapriya09)
 
 ---

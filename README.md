@@ -10,7 +10,7 @@ A personalized fashion recommendation system built using **Neural Collaborative 
 ## 📌 What It Does
 - Learns user purchase patterns from H&M transaction data
 - Recommends **Top 10 personalized fashion items** per user
-- Shows match percentages, product type, and category
+- Shows top10 match with rank-based, product type, and category
 
 ---
 
@@ -27,7 +27,7 @@ A personalized fashion recommendation system built using **Neural Collaborative 
 | TensorFlow / Keras | Model training & inference |
 | Pandas / NumPy | Data processing |
 | Scikit-learn | Label encoding |
-| Gradio | Web app UI |
+| Gradio | Streamlit | Web app UI |
 
 ---
 

@@ -27,7 +27,7 @@ A personalized fashion recommendation system built using **Neural Collaborative 
 | TensorFlow / Keras | Model training & inference |
 | Pandas / NumPy | Data processing |
 | Scikit-learn | Label encoding |
-| Gradio,Streamlit | Web app UI |
+| Gradio / Streamlit | Web app UI |
 
 ---
 

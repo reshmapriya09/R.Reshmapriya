@@ -6,10 +6,6 @@ A personalized fashion recommendation system built using **Neural Collaborative 
 
 ---
 
-## 🚀 Live Demo
-🔗 [Try the App on Hugging Face Spaces](https://huggingface.co/spaces/reshmapriya/HM-Fashion-Recommender)
-
----
 
 ## 📌 What It Does
 - Learns user purchase patterns from H&M transaction data
